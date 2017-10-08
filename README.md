@@ -1,6 +1,6 @@
 # Mini-Monitor
 
-<img align="right" width="50%" src="mini_monitor.png"/>
+<img align="right" width="50%" src="assembled_front.jpg"/>
 
 I wanted a small monitor for setting up Raspberry Pis, and bare 10-inch panels can be had for ~$50.  I purchased this:
 
@@ -19,6 +19,8 @@ And designed a case and stand for it in OpenSCAD.
 * No brim, lots of glue stick.
 
 # Assembly.
+
+<img align="right" width="50%" src="mini_monitor.png"/>
 
 1. Glue the bezel together, if you've printed in 2 parts.
 1. Try the panel out, since the next steps involve glue.  You'll want to note:
