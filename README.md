@@ -1,6 +1,7 @@
 # Mini-Monitor
 
 <img align="right" width="50%" src="assembled_front.jpg"/>
+<img align="right" width="50%" src="assembled_back.jpg"/>
 
 I wanted a small monitor for setting up Raspberry Pis, and bare 10-inch panels can be had for ~$50.  I purchased this:
 
