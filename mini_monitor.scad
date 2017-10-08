@@ -15,8 +15,8 @@ $fn = 100;
 //bezel_right();
 frame();
 //base();
-//short_peg();
-//long_peg();
+//short_arm();
+//long_arm();
 //top();
 //exploded();
 
@@ -86,7 +86,7 @@ module top() {
 }
 
 
-module short_peg() {
+module short_arm() {
     difference() {
         union() {
             cube(size=[50,8,8]);
@@ -102,7 +102,7 @@ module short_peg() {
 }
 
 
-module long_peg() {
+module long_arm() {
     difference() {
         union() {
             cube(size=[70,8,8]);
