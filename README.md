@@ -6,4 +6,4 @@ http://www.amazon.com/Resolution-1280x800-Raspberry-EJ101IA-01G-Rasbperry/dp/B00
 
 And designed a case and stand for it in OpenSCAD.
 
-![exploded view](mini_monitor.png)
+![exploded view](mini_monitor.png){:style="float: right; width: 50%;"}
