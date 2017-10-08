@@ -28,6 +28,8 @@ And designed a case and stand for it in OpenSCAD.
   1. The orientation of the image on the panel.  Mine is flipped compared to the orientation of the label with text on the back.  You can change in software, but it's annoying to do every time I'm setting up a new Pi.
 1. Place the LCD panel in the bezel.  Note that the bezel is offset because the viewable area is offset.  Be sure to matching things up.
 1. Screw the LCD controller to the frame using M3 screws.  Note that the screw holes are offset so it only fits one way.
+1. Stick or glue some padding to the back of the frame to hold the LCD panel firmly to the bezel.  I cut up a rubber band and glued them on.
+   <img width="33%" src="frame_padding.jpg"/>
 1. Glue the frame onto the bezel, sandwiching the panel between it and the bezel.
 1. Attach the long arm to the top of the frame/LCD/bezel assembly using an M3 screw and nut.
 1. Attach the short arm to the bottom of the frame/LCD/bezel assembly using an M3 screw and nut.
