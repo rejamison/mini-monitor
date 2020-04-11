@@ -13,7 +13,8 @@ $fn = 100;
 
 //bezel_left();
 //bezel_right();
-frame();
+//frame_left();
+frame_right();
 //base();
 //short_arm();
 //long_arm();
@@ -30,6 +31,20 @@ module bezel_left() {
 module bezel_right() {
     difference() {
         bezel();
+        translate([-1,-1,-1]) cube([200,121,100]);
+    }
+}
+
+module frame_left() {
+    difference() {
+        frame();
+        translate([-1,120,-1]) cube([200,400,100]);
+    }
+}
+
+module frame_right() {
+    difference() {
+        frame();
         translate([-1,-1,-1]) cube([200,121,100]);
     }
 }
